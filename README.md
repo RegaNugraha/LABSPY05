@@ -35,3 +35,9 @@ Tugas Labpy05
 
 10.Dan yang terakhir kita masukkan sebuah snyatx else: untuk akhiran sebuah program kita tersebut.
 ![else](https://user-images.githubusercontent.com/56884391/70288934-d5420c00-1805-11ea-99a3-24964d5e1745.png)
+
+#NOTE: Disini keys sebagai Nim dan values sebagai Nama, tugas, uas, uts, dan Nilai.
+
+Hasil dari input tersebut:
+
+Flowchart nya
