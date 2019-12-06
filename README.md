@@ -39,5 +39,10 @@ Tugas Labpy05
 #NOTE: Disini keys sebagai Nim dan values sebagai Nama, tugas, uas, uts, dan Nilai.
 
 Hasil dari input tersebut:
+![1](https://user-images.githubusercontent.com/56884391/70294119-14c42480-1815-11ea-9cb5-73dfe97ba28b.png)
+![2](https://user-images.githubusercontent.com/56884391/70294122-155cbb00-1815-11ea-856b-37a65533716b.png)
+![3](https://user-images.githubusercontent.com/56884391/70294123-155cbb00-1815-11ea-9777-d69e9808686c.png)
+![4](https://user-images.githubusercontent.com/56884391/70294124-15f55180-1815-11ea-81f9-4a96a9281f2d.png)
+
 
 Flowchart nya
