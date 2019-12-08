@@ -46,5 +46,4 @@ Hasil dari input tersebut:
 
 
 Flowchart nya
-![New](https://user-images.githubusercontent.com/56884391/70340588-a2d6f400-1883-11ea-90ce-13f1205704d3.png)
-
+![new](https://user-images.githubusercontent.com/56884391/70382479-75776c80-198f-11ea-8c4d-327dd2f86aeb.png)
